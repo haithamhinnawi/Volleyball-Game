@@ -2,7 +2,7 @@
 
 A simple 2-player volleyball game created using Pygame. The game features two players, a ball, and a net, with jumping mechanics and a match timer.
 
----
+
 
 ## Features
 - **Two players**: Player 1 (Blue) and Player 2 (Green).
@@ -12,7 +12,7 @@ A simple 2-player volleyball game created using Pygame. The game features two pl
 - **Match timer**: Each match is limited to 60 seconds.
 - **Winning condition**: The first player to reach 5 points wins, or the player with the highest score at the end of the timer.
 
----
+
 
 ## Controls
 - **Player 1 (Blue)**
@@ -24,7 +24,7 @@ A simple 2-player volleyball game created using Pygame. The game features two pl
   - Move Right: `D`
   - Jump: `W`
 
----
+
 
 ## How to Play
 1. Run the game.
@@ -34,7 +34,7 @@ A simple 2-player volleyball game created using Pygame. The game features two pl
    - Making the ball hit the net.
 4. The player with the highest score when time runs out or the first to reach 5 points wins.
 
----
+
 
 ## Game Mechanics
 - **Jumping**: Players can jump up to a height of 100 pixels.
@@ -44,7 +44,7 @@ A simple 2-player volleyball game created using Pygame. The game features two pl
   - Adjusts speed and direction on collision.
 - **Net interaction**: Both players score a point if the ball hits the net.
 
----
+
 
 ## Installation
 1. Ensure Python is installed on your system.
@@ -57,7 +57,7 @@ A simple 2-player volleyball game created using Pygame. The game features two pl
    python volleyball_game.py
    ```
 
----
+
 
 ## Resetting the Game
 - After a game ends, press the `SPACE` key to restart.
